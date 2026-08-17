@@ -1,0 +1,14 @@
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+backend/geo.db
+backend/.geo_config.key
+backend/official_monitor_profiles/
+backend/official_monitor_artifacts/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+.playwright-cli/
+output/
